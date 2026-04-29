@@ -24,6 +24,10 @@ configs/
   binary_segmentation_settings.md    # default experiment settings
 ```
 
+
+<img width="5925" height="2920" alt="architecture" src="https://github.com/user-attachments/assets/d2db5849-e4d6-4eb6-a82b-1771449c5133" />
+
+
 ## Installation
 
 Install a CUDA-enabled PyTorch build first, then install the project dependencies.
