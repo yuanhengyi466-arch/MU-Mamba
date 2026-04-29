@@ -120,6 +120,11 @@ python tools/eval_mamba3_seg.py \
   --save-probs
 ```
 
+[acdc_synapse_multiorgan_4x8_qualitative_gh_unet.pdf](https://github.com/user-attachments/files/27211059/acdc_synapse_multiorgan_4x8_qualitative_gh_unet.pdf)
+[qualitative_comparison.pdf](https://github.com/user-attachments/files/27211057/qualitative_comparison.pdf)
+[polyp_qualitative.pdf](https://github.com/user-attachments/files/27211053/polyp_qualitative.pdf)
+
+
 ## Acknowledgements
 
 This project builds on the upstream Mamba implementation by Tri Dao and Albert Gu. The original Mamba code and CUDA kernels are retained under the Apache-2.0 license.
