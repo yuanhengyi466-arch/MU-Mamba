@@ -119,11 +119,9 @@ python tools/eval_mamba3_seg.py \
   --amp-dtype bf16 \
   --save-probs
 ```
-
-<img width="4195" height="2140" alt="acdc_synapse_multiorgan_4x8_qualitative_gh_unet" src="https://github.com/user-attachments/assets/f80c1760-15b7-46c5-a024-fb047ebdcef8" />
-<img width="4195" height="2649" alt="polyp_qualitative" src="https://github.com/user-attachments/assets/742f8674-d08f-4ee3-bf24-cdf14143f22e" />
 <img width="5212" height="2648" alt="qualitative_comparison" src="https://github.com/user-attachments/assets/92baf463-f2d3-4ade-ba2a-479d9aeefeaa" />
-
+<img width="4195" height="2649" alt="polyp_qualitative" src="https://github.com/user-attachments/assets/742f8674-d08f-4ee3-bf24-cdf14143f22e" />
+<img width="4195" height="2140" alt="acdc_synapse_multiorgan_4x8_qualitative_gh_unet" src="https://github.com/user-attachments/assets/f80c1760-15b7-46c5-a024-fb047ebdcef8" />
 
 
 ## Acknowledgements
