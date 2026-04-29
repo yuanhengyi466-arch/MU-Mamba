@@ -1,0 +1,22 @@
+# Install a CUDA-enabled PyTorch build separately when needed:
+# https://pytorch.org/get-started/locally/
+torch
+torchvision
+torchaudio
+
+numpy
+Pillow
+scipy
+scikit-image
+scikit-learn
+opencv-python
+nibabel
+tqdm
+einops
+packaging
+setuptools
+ninja
+
+# Required by the Mamba-3 CUDA path on Linux.
+# Windows users are recommended to use WSL/Linux for the Triton CUDA path.
+triton
